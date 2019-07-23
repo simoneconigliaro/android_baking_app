@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="select_recipe">Select a recipe from the Baking app to show the list of ingredients on this widget.</string>
+    <string name="error_message">Error retrieving data from server</string>
+    <string name="no_internet">No internet connection, <font color="#D81B60"><b>RETRY</b></font></string>
+</resources>
