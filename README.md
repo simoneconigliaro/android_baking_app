@@ -17,3 +17,10 @@ As a working Android developer, you often have to create and implement apps wher
 
 ## App Description
 Your task is to create a Android Baking App that will allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. You will create an app that will allow a user to select a recipe and see video-guided steps for how to complete it.
+
+## Libraries
+- [Retrofit](http://square.github.io/retrofit/) for REST api communication
+- [ExoPlayer](https://github.com/google/ExoPlayer) to play media locally and over the Internet
+- [Picasso](http://square.github.io/picasso/) for image loading
+
+# Screenshots
