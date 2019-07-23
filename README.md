@@ -25,8 +25,8 @@ Your task is to create a Android Baking App that will allow Udacity’s resident
 - [Butterknife](https://jakewharton.github.io/butterknife/) for field and method binding for Android views
 
 # Screenshots
-![main](screenshot01.png)
-![ingredients](screenshot02.png)
+![main](screenshot01.png)&nbsp;&nbsp;&nbsp;
+![ingredients](screenshot02.png)&nbsp;&nbsp;&nbsp;
 ![steps](screenshot03.png)
 ![fullscreen](screenshot04.png)
 ![tablet](screenshot05.png)
