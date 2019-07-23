@@ -22,6 +22,6 @@ Your task is to create a Android Baking App that will allow Udacity’s resident
 - [Retrofit](http://square.github.io/retrofit/) for REST api communication
 - [ExoPlayer](https://github.com/google/ExoPlayer) for playing media locally and over the Internet
 - [Picasso](http://square.github.io/picasso/) for image loading
-- [Butterknife](https://jakewharton.github.io/butterknife/) for binding android views
+- [Butterknife](https://jakewharton.github.io/butterknife/) for field and method binding for Android views
 
 # Screenshots
