@@ -20,7 +20,7 @@ Your task is to create a Android Baking App that will allow Udacity’s resident
 
 ## Libraries
 - [Retrofit](http://square.github.io/retrofit/) for REST api communication
-- [ExoPlayer](https://github.com/google/ExoPlayer) to play media locally and over the Internet
+- [ExoPlayer](https://github.com/google/ExoPlayer) for playing media locally and over the Internet
 - [Picasso](http://square.github.io/picasso/) for image loading
 
 # Screenshots
